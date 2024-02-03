@@ -1,0 +1,82 @@
+/* Write your CSS here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  height: 100px;
+  width: 100px;
+}
+
+.menu-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.popup-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+.container1 {
+  padding-top: 200px;
+}
+
+.home-container {
+  display: flex;
+}
+
+.home-icon {
+  padding-top: 15px;
+  height: 50px;
+  width: 50px;
+  padding-left: 700px;
+}
+
+.description {
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.about-container {
+  display: flex;
+}
+
+.about-icon {
+  padding-top: 15px;
+  height: 50px;
+  width: 50px;
+  padding-left: 700px;
+}
+
+.close-button {
+  background-color: #ffffff;
+  height: 80px;
+  width: 80px;
+  border: none;
+  outline: none;
+  margin-left: 700px;
+}
+
+.close-icon {
+  height: 20px;
+  width: 20px;
+  color: #616e7c;
+}
